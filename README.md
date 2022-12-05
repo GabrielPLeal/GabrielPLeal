@@ -2,7 +2,7 @@
 🔭 I'm a full stack developer<br>
 💼 Working with Python (Django), JavaScript (React), Relational Database, Agile Methods and others technologies<br>
 🌱 I'm passionate for challenges and learning new things<br>
-⚡ I ran a hamburger shop for 5 months
+⚡ I owned a hamburger shop for 5 months
 
 
 ## 🌐 Socials:
