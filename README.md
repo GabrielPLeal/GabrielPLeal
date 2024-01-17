@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a full stack developer<br>
+🔭 I'm full stack developer<br>
 💼 Working with Python (Django), JavaScript (React), Relational Database, Agile Methods and others technologies<br>
 🌱 I'm passionate for challenges and learning new things<br>
 ⚡ I owned a hamburger shop for 5 months
